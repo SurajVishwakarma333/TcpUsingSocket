@@ -59,6 +59,18 @@ If the ip-address and port number provided is correct then only it will Connect 
 
 
 
+
+Entering Message (HELLO WORLD) and trying to pass the entered message to the TCP Server
+
+
+
+
+![just'jpg](https://user-images.githubusercontent.com/101108540/169974633-32319b22-1678-4b75-852c-f003c8b18802.jpg)
+
+
+
+
+
 Output :
 
 
