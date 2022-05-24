@@ -46,6 +46,8 @@ Providing the ip-address and port number for TCP Server Communication.(Hercules 
 After providing ip-address and port number.
 
 Clicking on Button(Connect to server) to Connect to the TCP Server.
+
+
 If the ip-address and port number provided is correct then only it will Connect and show meassage as Connected.
 
 
