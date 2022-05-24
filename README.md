@@ -23,7 +23,7 @@ Here i am using Hercules Tool for communication.(Client/Server)
    
    
    
-Providing the ip-address and port number to the TCP Server.(Hercules Tool)
+Providing the ip-address and port number for TCP Server Communication.(Hercules Tool)
 
 
 ![2](https://user-images.githubusercontent.com/101108540/169972192-1304197b-0067-488b-82ff-01ad267b6076.jpg)
