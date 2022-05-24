@@ -6,8 +6,8 @@ Here i am using Hercules Tool for communication.(Client/Server)
 
 
 
-                                      Where u can see my ip-address is 192.168.0.132 
-                                                     and port is 8552
+                                      Where my ip-address is 192.168.0.132 
+                                           and port is 8552
                                                      
                                                      
                                                      
