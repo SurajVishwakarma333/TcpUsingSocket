@@ -23,17 +23,45 @@ Here i am using Hercules Tool for communication.(Client/Server)
    
    
    
+   
+   
+   
 Providing the ip-address and port number for TCP Server Communication.(Hercules Tool)
+
+
+
+
+
 
 
 ![2](https://user-images.githubusercontent.com/101108540/169972192-1304197b-0067-488b-82ff-01ad267b6076.jpg)
 
 
-After providing ip-address and port number Clicking on Button(Connect to server) to Connect to the TCP Server.
-Connected.
+
+
+
+
+
+
+After providing ip-address and port number.
+
+Clicking on Button(Connect to server) to Connect to the TCP Server.
+If the ip-address and port number provided is correct then only it will Connect and show meassage as Connected.
+
+
+
+
+
 ![3](https://user-images.githubusercontent.com/101108540/169972519-02f58af4-6a70-42ff-b1e7-25b91e0f06dc.jpg)
 
+
+
+
 Output :
+
+
+
+
 
 ![4](https://user-images.githubusercontent.com/101108540/169972667-2c835980-7d75-4443-b606-49bb1b04d67a.jpg)
 
